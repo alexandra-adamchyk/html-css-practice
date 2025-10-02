@@ -1,0 +1,99 @@
+.top_image{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+.contact{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+.contact_information{
+    font-weight: bold;
+    font-size: large;
+}
+
+h1{
+    background-color: #f58ea0;
+    color: #dad8d8;
+}
+
+h2{
+    background-color: #dad8d8;
+    color: #f112f1 ;
+}
+
+.the_main_topic{
+    background-color: hotpink;
+    color: #12f194;
+}
+
+.chocolate_bar{
+    background-color: hotpink;
+}
+
+.a_subtopic_to{
+    background-color: rgb(218, 206, 212);
+    color: #2112f1;
+}
+
+.the_next_main_topic{
+    background-color: rgb(207, 218, 206);
+    color: #46f112;
+}
+
+.our_treats{
+    background-color: rgb(207, 218, 206);
+    color: #46f112;
+}
+
+.lollipop{
+    width: 120px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 5px solid #dbf01e;
+    float: left;
+    padding: 2px;
+}
+
+.candy-floss{
+    width: 120px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+    border: 5px solid #1ed7f0;
+    padding: 2px;
+}
+
+.jellybeans{
+    width: 120px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    border: 5px solid #f01ecd;
+    padding: 2px;
+}
+
+#footer{
+    background-color: #139dec;
+    }
+    ul{
+    background-color: #08c6e7;
+    list-style-type: none; 
+    }
+    
+
+    #footer{
+    background-color: #139dec;
+    }
+    ul{
+    background-color: #08c6e7;
+    list-style-type: circle; 
+    }
+    ul:hover{
+    background: #f700ff;
+    list-style-type:circle; 
+    } 

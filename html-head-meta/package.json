@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalCareerInstitute/UIB-boilerplate-head",
+    "id": 214109891
+  }
+}

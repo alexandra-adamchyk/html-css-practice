@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+header {
+    background-image: url(/images/task1.png);
+    height: 30%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin: 0;
+}

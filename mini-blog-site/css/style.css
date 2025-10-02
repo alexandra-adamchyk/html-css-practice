@@ -1,0 +1,9 @@
+.container{
+    max-width: 800px;
+}
+div > a {
+    background-color: green;
+}
+.container :nth-child(2){
+    background-color: aquamarine;
+}
